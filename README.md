@@ -1,6 +1,6 @@
-# MakeIt_test
+# MakeIt_test_task
 
-На основе https://kaggle.com/datasnaek/youtube-new ответить на вопросы:
+### На основе https://kaggle.com/datasnaek/youtube-new ответить на вопросы:
 
 1. Cвязь между страной и популярными категориями. Правда ли, что индусы и немцы смотрят одно и то же, а японцы прилетают из космоса.
 
